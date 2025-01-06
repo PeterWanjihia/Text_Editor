@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "*.html": "html",
+    "termios.h": "c"
+  }
+}
